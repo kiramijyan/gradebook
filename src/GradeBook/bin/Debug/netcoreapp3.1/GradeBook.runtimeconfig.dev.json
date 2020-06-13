@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hkira\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hkira\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+D:\Bootcamp\C_Sharp\pluralsight\C# Foundamentals\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
